@@ -10,7 +10,7 @@ For too many years have brilliant and revolutionary ideas languished in the arch
 
 We have decentralized infrastructure to verify and execute code anytime anywhere. We have applications that allow us collectively manage organizations at scale. We have magic internet money to make it sustainable. For the first time in human history a group of people who've never met can collaborate across borders to building something together that the whole world can use, and they can do so in a way that is positive-sum and sustainable. This is happening now. It's called 1Hive and the Hive Commons License. 
 
-1Hive is a decentralized autonomous organization working to grow the open source commons by contributing to research, development, and documentation related to open source sustainability.
+1Hive is a decentralized autonomous organization working to grow the open source commons by contributing to research, development, and documentation related to open source sustainability. We are changing the way people think about and build open source software.
 
 We believe that improving how we collaborate and recognize contributions to open source communities will help grow the open source software commons. We also believe that advocating for an abundant open source software commons is the best way to mitigate social risks associated with the broad integration of technology into our economic systems and societies.
 
