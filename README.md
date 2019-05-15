@@ -7,7 +7,7 @@ A place to keep track of all the ways we communicate with the world
 
 (currently this tracks who has write access, but it should be updated to reflect whoever wants to take on managing those channels and engaging with people there) 
 
-[Website](http://1hive.org) - @lkngtn and @burrrata
+[Website](http://1hive.org) - all 1Hive BEEs
 
 [Medium](https://medium.com/hive-commons) - @lkngtn
 
