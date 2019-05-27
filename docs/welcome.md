@@ -1,9 +1,3 @@
----
-id: welcome
-sidebar_label: Welcome
-title: Hi! Let's change the world, together. 
----
-
 1Hive is a [decentralized autonomous organization](docs/wiki/guides/daos) working to grow the open source commons by contributing to research, development, and documentation related to open source sustainability.  
 
 We believe that improving how we collaborate and track contributions to open source communities will help grow the open source software commons. We also believe that supporting the open source software commons is the best way to mitigate social risks associated with the pervasive integration of technology into every aspect of our lives.
