@@ -3,6 +3,18 @@ A place to keep track of all the ways we communicate with the world
 
 <br>
 
+## Docs
+
+This is where we document the communication channels we're using
+- how to join them
+- how they're intended to be used
+
+Current
+- keybase
+- github
+
+<br>
+
 ## Current Channels
 
 (currently this tracks who has write access, but it should be updated to reflect whoever wants to take on managing those channels and engaging with people there) 
