@@ -5,13 +5,9 @@ A place to keep track of all the ways we communicate with the world
 
 ## Docs
 
-This is where we document the communication channels we're using
+Documentation on our current communication channels:
 - how to join them
 - how they're intended to be used
-
-Current
-- keybase
-- github
 
 <br>
 
